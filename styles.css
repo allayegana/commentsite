@@ -1,0 +1,18 @@
+p{
+    color: mediumaquamarine;
+    background-color: violet;
+    margin:0
+}
+body{
+    margin:0;
+    background-color: yellow;
+}
+h1{
+    color: tomato;
+
+}
+img{
+    width: 640px;
+    margin: auto;
+    display: block;
+}
